@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Pixel el perrito",
+    "slug": "pixel-mascota",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f7fb"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f6f7fb"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": null
+    }
+  }
+}
